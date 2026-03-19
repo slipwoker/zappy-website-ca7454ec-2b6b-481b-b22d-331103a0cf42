@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+בלוג השקעות מוביל המתמחה ב-TQQQ מינוף השקעות. גלה ניתוחים עמוקים, אסטרטגיות מוכחות וטיפים מעשיים שיעזרו לך להשקיע חכם יותר ולמקסם את התשואה שלך.
+
+### תובנות
+https://example.com/insights
+צלול לעומק עם תובנות השקעה בלעדיות על אסטרטגיית השקעה ב-TQQQ. מאמרים מקצועיים, נתוני שוק עדכניים וניתוחים ביקורתיים שיחדדו את החלטות ההשקעה שלך. כנס עכשיו.
+
+### מאמר
+https://example.com/article/tqqq-strategy-playbook
+איך להשקיע ב-TQQQ בצורה נכונה? המדריך המקיף ביותר לאסטרטגיות TQQQ מינוף השקעות, ניהול סיכונים ותזמון שוק. קרא את המאמר שיכול לשנות את דרך ההשקעה שלך לתמיד.
+
+### צור קשר ומשפטי
+https://example.com/contact
+יש לך שאלות על בלוג השקעות ב-TQQQ או רוצה לשתף פעולה? צור קשר עם צוות Get Global Yield. כאן תמצא גם את כל המידע המשפטי, מדיניות הפרטיות ותנאי השימוש באתר.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
